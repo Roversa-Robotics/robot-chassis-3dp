@@ -23,7 +23,15 @@ charging-station-3dp/
   diff-based — see [Versioning](#versioning) below.
 - **`exports/stl/`** and **`exports/step/`** — Generated output files. These need to 
   be regenerated any time the `cad/` version is updated and should be committed in the
-  same pull request with the `.f3d` update.
+  same pull request with the `.f3d` update. 
+  
+Although this design includes buttons and wheels for a complete assembly, they are maintained in the LC Chassis design in OnShape. Only the following STL files come from this design:
+- roversa-motor-tension-block.stl (from the SERVO TENSOR body)
+- roversa-microbit-cover.stl (from the MICROBIT body)
+- roversa-front.stl (from the PUERTA body)
+- roversa-buttons-cover.stl (from the BOTONES body)
+- roversa-body.stl (from the CUERPO 1 body)
+- roversa-battery-cover.stl (from the TAPA BATERIA body)
 
 ## Software
 
