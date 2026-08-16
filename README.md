@@ -39,7 +39,7 @@ Although this design includes buttons and wheels for a complete assembly, they a
 
 ## Printing notes
 
-The parts have been printed using PETG with a Bambu X1C with `0.16mm Optimal @BBL X1C` settings on the Textured PEI plate. The main body requires enabling supports (though I'm hoping to eliminate that need in a future version).
+The parts have been test printed using PETG with a Bambu X1C with `0.16mm Optimal @BBL X1C` settings on the Textured PEI plate.
 
 ## License
 
