@@ -26,12 +26,19 @@ charging-station-3dp/
   same pull request with the `.f3d` update. 
   
 Although this design includes buttons and wheels for a complete assembly, they are maintained in the LC Chassis design in OnShape. Only the following STL files come from this design:
-- roversa-motor-tension-block.stl (from the SERVO TENSOR body)
-- roversa-microbit-cover.stl (from the MICROBIT body)
-- roversa-front.stl (from the PUERTA body)
-- roversa-buttons-cover.stl (from the BOTONES body)
-- roversa-body.stl (from the CUERPO 1 body)
+- roversa-body.stl (from the CUERPO body)
+- roversa-front.stl (from the PUERTA PRINCIPAL body)
+- roversa-back.stl (from the PUERTA TRASERA body)
+- roversa-microbit-cover.stl (from the TAPA MICROBIT body)
+- roversa-buttons-cover.stl (from the TAPA BOTONES body)
 - roversa-battery-cover.stl (from the TAPA BATERIA body)
+- roversa-motor-tension-block.stl (from the SERVO TENSOR body)
+
+Additionally, the following 'extra' files are exported from the design for optional components:
+- extras/bumper/roversa-bumper.stl (from the PLACA body)
+- extras/license-plate/roversa-license-plate.stl (from the PLACA body)
+- extras/front-with-eyes/roversa-front-with-eyes.stl (from the PUERTA CON OJOS body)
+- extras/front-with-eyes/roversa-eye.stl (from the OJOS 1 body)
 
 ## Software
 
