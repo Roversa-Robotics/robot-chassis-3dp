@@ -48,6 +48,10 @@ Additionally, the following 'extra' files are exported from the design for optio
 
 The parts have been test printed using PETG with a Bambu X1C with `0.16mm Optimal @BBL X1C` settings on the Textured PEI plate.
 
+## Versions
+
+Versions are numbered using semantic versioning (major.minor.patch numbering). Each update that is committed to source control should have a corresponding version number update in Fusion 360.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
