@@ -2,6 +2,8 @@
 
 A 3D-printable (3DP) chassis for the Roversa robot, designed in Fusion 360.
 
+![Roversa Chassis](docs/roversa-chassis.png)
+
 Credit to the Paola Harris Bonet at Universidad del Norte for the initial design that I've built upon.
 
 The design uses common parts also used in the Laser Cut (LC) version of the chassis--the buttons, wheels, and ball bearing holder (but not the battery holder from the LC version). The Roversa PCB board, servos, battery and Micro:Bit complete the assembly.
@@ -12,7 +14,7 @@ The design uses common parts also used in the Laser Cut (LC) version of the chas
 charging-station-3dp/
 ├── LICENSE
 ├── README.md
-├── cad/              Source Fusion 360 (.f3d) archive
+├── cad/              Source Fusion 360 (.f3d) archives
 └── exports/
     ├── stl/          Generated STL files, ready to slice/print
     └── step/         Generated STEP files, for use in other CAD tools
@@ -39,6 +41,7 @@ Additionally, the following 'extra' files are exported from the design for optio
 - extras/license-plate/roversa-license-plate.stl (from the PLACA body)
 - extras/front-with-eyes/roversa-front-with-eyes.stl (from the PUERTA CON OJOS body)
 - extras/front-with-eyes/roversa-eye.stl (from the OJOS 1 body)
+- extras/flag/base-with-flag.stl (from the roversa_flag fusion project)
 
 ## Software
 
