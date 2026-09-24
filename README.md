@@ -37,7 +37,9 @@ Although this design includes buttons and wheels for a complete assembly, they a
 - roversa-motor-tension-block.stl (from the SERVO TENSOR body)
 
 Additionally, the following 'extra' files are exported from the design for optional components:
-- extras/bumper/roversa-bumper.stl (from the PLACA body)
+- extras/bumper/roversa-bumper.stl (from the BUMPER body)
+- extras/bumper/pen-clamp-body.stl (from the pen-clamp fusion project)
+- extras/bumper/pen-clamp-screw.stl (from the pen-clamp fusion project)
 - extras/license-plate/roversa-license-plate.stl (from the PLACA body)
 - extras/front-with-eyes/roversa-front-with-eyes.stl (from the PUERTA CON OJOS body)
 - extras/front-with-eyes/roversa-eye.stl (from the OJOS 1 body)
