@@ -45,6 +45,19 @@ Additionally, the following 'extra' files are exported from the design for optio
 - extras/front-with-eyes/roversa-eye.stl (from the OJOS 1 body)
 - extras/flag/base-with-flag.stl (from the roversa_flag fusion project)
 
+Finally, the following files were created in other modeling tools but a copy is maintained in this project because they are necessary for assembling the robot:
+- externals/Back_button.stl - mastered in OnShape
+- externals/Forward_button.stl - mastered in OnShape
+- externals/Left_button.stl - mastered in OnShape
+- externals/Menu_button.stl - mastered in OnShape
+- externals/Play_button.stl - mastered in OnShape
+- externals/Right_button.stl - mastered in OnShape
+- externals/Stop_button.stl - mastered in OnShape
+- externals/roversa_battery_holder_v3.stl - only used for lasercut robot
+- externals/roversa_bearing_support_split_v3.stl - master not available
+- externals/roversa_wheel_F_v3.stl - master not available
+- externals/roversa_wheel_M_v3.stl - master not available
+
 ## Software
 
 - **Fusion 360** — primary CAD tool used for design.
